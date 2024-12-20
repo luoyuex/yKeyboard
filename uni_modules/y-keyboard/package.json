@@ -1,0 +1,83 @@
+{
+    "id": "y-keyboard",
+    "displayName": "数字键盘，随机数字键盘，支持自定义关闭和删除按钮",
+    "version": "1.0.1",
+    "description": "数字键盘，可随机生成数字键盘和自定义数字键盘的关闭按钮和删除按钮。",
+    "keywords": [
+        "数字键盘",
+        "随机键盘",
+        "自定义键盘",
+        "随机数字键盘"
+    ],
+    "repository": "https://github.com/luoyuex/yKeyboard",
+    "engines": {
+        "HBuilderX": "^3.91"
+    },
+    "dcloudext": {
+        "type": "component-vue",
+      "sale": {
+          "regular": {
+              "price": "0.00"
+          },
+          "sourcecode": {
+              "price": "0.00"
+          }
+      },
+      "contact": {
+          "qq": "1241804731"
+      },
+      "declaration": {
+          "ads": "无",
+          "data": "无",
+          "permissions": "无"
+      },
+      "npmurl":""
+    },
+    "uni_modules": {
+        "scripts": {
+            "init": "node scripts/init.js"
+        },
+        "dependencies": [],
+        "encrypt": [
+            
+        ],
+        "platforms": {
+            "cloud": {
+                "tcb": "y",
+                "aliyun": "y",
+                "alipay": "n"
+            },
+            "client": {
+                "App": {
+                    "app-vue": "y",
+                    "app-nvue": "n"
+                },
+                "H5-mobile": {
+                    "Safari": {
+                        "minVersion": "14.0.2"
+                    },
+                    "Android Browser": "y",
+                    "微信浏览器(Android)": "y",
+                    "QQ浏览器(Android)": "y"
+                },
+                "H5-pc": {
+                    "Chrome": "y",
+                    "IE": "u",
+                    "Edge": "y",
+                    "Firefox": "y",
+                    "Safari": "y"
+                },
+                "小程序": {
+                    "微信": "y",
+                    "阿里": "y",
+                    "百度": "y",
+                    "QQ": "y"
+                },
+                "快应用": {
+                    "华为": "u",
+                    "联盟": "u"
+                }
+            }
+        }
+    }
+}

@@ -58,7 +58,7 @@
 </template>
 
 <script>
-	import yKeyboard from '@/uni_modules/y-keyboard/y-keyboard.vue'
+	import yKeyboard from '@/uni_modules/y-keyboard/components/y-keyboard.vue'
 	export default {
 		components: {
 			yKeyboard

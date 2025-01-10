@@ -4,7 +4,7 @@
 数字键盘，支持自定义关闭和删除按钮，随机数字键盘
 
 ## 引入组件
-`import yKeyboard from '@/uni_modules/y-keyboard/y-keyboard.vue'`
+`import yKeyboard from '@/uni_modules/y-keyboard/components/y-keyboard/y-keyboard.vue'`
 ### 注册组件
 ```js
 components: {

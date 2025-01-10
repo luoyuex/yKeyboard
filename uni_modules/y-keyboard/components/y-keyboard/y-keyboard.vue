@@ -134,6 +134,10 @@
 		align-items: center;
 		justify-content: center;
 	}
+	.y-keyboard .keyboard .list .item:active {
+	  background-color: #bdc5d0; /* 按下时背景颜色 */
+	  /* color: white; */
+	}
 	.open_y_keyboard {
 		height: 100%;
 	}

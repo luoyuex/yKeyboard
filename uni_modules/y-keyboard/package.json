@@ -1,7 +1,7 @@
 {
     "id": "y-keyboard",
     "displayName": "数字键盘，随机数字键盘，支持自定义关闭和删除按钮",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "数字键盘，可随机生成数字键盘和自定义数字键盘的关闭按钮和删除按钮。",
     "keywords": [
         "数字键盘",
